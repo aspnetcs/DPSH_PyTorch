@@ -1,5 +1,11 @@
 # Feature Learning based Deep Supervised Hashing with Pairwise Labels
 
+#Paper
+https://cs.nju.edu.cn/_upload/tpl/00/ce/206/template206/paper/IJCAI16_DPSH.pdf
+
+## Reference
+Li W J , Wang S , Kang W C . Feature Learning based Deep Supervised Hashing with Pairwise Labels[J]. 2015.
+
 ## REQUIREMENTS
 1. pytorch
 2. loguru
