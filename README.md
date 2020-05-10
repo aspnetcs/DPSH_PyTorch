@@ -1,6 +1,6 @@
 # Feature Learning based Deep Supervised Hashing with Pairwise Labels
 
-#Paper
+# Paper
 https://cs.nju.edu.cn/_upload/tpl/00/ce/206/template206/paper/IJCAI16_DPSH.pdf
 
 ## Reference
